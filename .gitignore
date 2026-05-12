@@ -1,0 +1,22 @@
+/dataset
+# Python
+__pycache__/
+*.pyc
+
+# Virtual Environment
+venv/
+
+# DVC Cache
+.dvc/cache/
+
+# MLflow
+mlruns/
+
+# Mac
+.DS_Store
+
+# Large Files
+dataset/
+models/model.keras
+
+venv/
